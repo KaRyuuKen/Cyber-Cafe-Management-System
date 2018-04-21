@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+c:\users\tash\source\repos\project2\project2\myform.cpp(7): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  menu.cpp
+  Generating Code...
+  Project2.vcxproj -> C:\Users\TASH\source\repos\Project2\Debug\Project2.exe
